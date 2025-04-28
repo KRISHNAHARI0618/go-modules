@@ -13,3 +13,7 @@ func Barks() string {
 func Animal() string {
 	return "Lion --> Tiger --> Elephant"
 }
+
+func Surrender() {
+	fmt.Println("Added New Lines ")
+}
