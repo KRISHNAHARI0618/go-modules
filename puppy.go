@@ -1,5 +1,7 @@
-package go-modules
+package gomodules
 
-func Fascinating(){
+import "fmt"
+
+func Fascinating() {
 	fmt.Println("Peddireddy Go Modules")
 }
