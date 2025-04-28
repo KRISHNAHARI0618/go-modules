@@ -9,3 +9,7 @@ func Fascinating() {
 func Barks() string {
 	return "Woof!! Woof!! Wooof!!"
 }
+
+func Animal() string {
+	return "Lion --> Tiger --> Elephant"
+}
